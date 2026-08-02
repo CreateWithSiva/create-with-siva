@@ -1,0 +1,7 @@
+# robots.txt for Create With Siva
+# Allows all search engines to crawl the entire site.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://createwithsiva.github.io/sitemap.xml
